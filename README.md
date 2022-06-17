@@ -1,5 +1,5 @@
 # 💫About Me :
-Currently full-time web administrator for the University Book Store
+Currently full-time web administrator for the University Book Store\
 About to start final semester in the Front End Developer program at Madison College
 
 
